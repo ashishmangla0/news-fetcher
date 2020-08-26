@@ -1,0 +1,10 @@
+{
+  "articles": [
+    {
+      "title": "Failed to fetch articles, here's some grass instead...",
+      "url": "",
+      "urlToImage": "images/grass.jpg",
+      "description": "Try loading the page again when you're online."
+    }
+  ]
+}
